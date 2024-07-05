@@ -4,6 +4,7 @@
 sudo apt update
 sudo apt install wget curl
 
+# ============ 미러 사이트 수정
 # 작업할 디렉토리
 mkdir -p ~/Downloads && cd ~/Downloads
 # Github에서 필요한 파일 다운롣,
